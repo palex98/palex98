@@ -1,3 +1,6 @@
+# 💫 About Me:
+I am a passionate and experienced developer with a strong focus on creating innovative solutions. I have a diverse technical background and a deep understanding of various technologies and frameworks. My expertise lies in C#, JavaScript, TypeScript, and working with cloud platforms such as AWS, Azure, and Google Cloud. I am also proficient in using tools like Firebase, .NET, Express.js, Fastify, JWT, NPM, NestJS, Node.js, RxJS, Socket.io, MySQL, Postgres, MongoDB, Microsoft SQL Server, Redis, Confluence, Docker, Swagger, Postman, Kubernetes, and Jira.<br>I thrive in dynamic environments and enjoy collaborating with teams to deliver high-quality software solutions. With a strong problem-solving mindset and excellent communication skills, I am able to effectively analyze requirements and provide efficient solutions. I am constantly learning and staying up-to-date with the latest industry trends and technologies.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oleksandr-pyzh) 
@@ -8,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=palex98&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=palex98&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=palex98&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=palex98&icon=0&color=0)](https://visitcount.itsvg.in)
